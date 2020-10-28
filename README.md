@@ -7,3 +7,7 @@ it supports X86 and ARM architecture.
 
 ## Contact
 - Sanidhya Kashyap (sanidhya@gatech.edu)
+
+## Run
+
+    sudo python gen_table.py
